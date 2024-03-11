@@ -1,0 +1,19 @@
+.todo-container {
+  background-color: #5e56ee;
+  color: #ffffff;
+  font-family: 'Roboto';
+  height: 30px;
+  border-radius: 8px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.list {
+  list-style-type: none;
+  padding: 15px;
+}
+.span {
+  padding: 10px;
+}
